@@ -4,11 +4,11 @@
 
 **TubeMusic** is a YouTube Music ad-free Kodi (XBMC) add-on, powerred by unofficial Yotube Music API.
 # 📌 Features
-- Search for songs, albums, playlists
-- Top charts and trending music
-- Personal playlists (if logged)
-- Background playback
-- Lightweight & fast (no official API needed)
+- *Search* for *songs, albums, playlists*
+- *Top charts* and *trending music*
+- *Personal playlists* (if logged)
+- *Background playback*
+- *Lightweight* & *fast* (no official API needed)
 # 📥 Installation
 ## Method 1: Via Kodi Repository (Recommended)
 1. Download the latest `.zip` release.
@@ -48,9 +48,10 @@ zip -r plugin.audio.indatube.zip plugin.audio.tubemusic/
 <p>
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 </p>
-(The full license text is in LICENSE.)
+
+(The full license text is in [LICENSE](https://github.com/StupidKlad/tubemusic/blob/main/LICENSE).)
 
 # 💡 Support & Contributions
-- Found a bug? Open an Issue.
-- Want to contribute? Submit a Pull Request!
-- Need help? Contact me on Telegram: `username`.
+- Found a bug? Open an **Issue**.
+- Want to contribute? Submit a **Pull Request**!
+- Need help? Contact me on Telegram: [@TheOfficialKlad](https://t.me/TheOfficialKlad)
